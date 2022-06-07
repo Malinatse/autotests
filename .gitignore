@@ -1,0 +1,6 @@
+/.allure/
+/.idea/
+/build/
+/src/main/
+/target/
+conf.properties
